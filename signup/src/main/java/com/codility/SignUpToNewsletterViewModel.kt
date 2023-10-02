@@ -33,6 +33,7 @@ class SignUpToNewsletterViewModel(
             return false
         }
         return android.util.Patterns.EMAIL_ADDRESS.matcher(email).matches()
+
     }
 
     fun onSubmitClick() {

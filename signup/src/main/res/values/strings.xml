@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="email_already_in_use">Email already in use</string>
+    <string name="network_error">Network error</string>
+</resources>
